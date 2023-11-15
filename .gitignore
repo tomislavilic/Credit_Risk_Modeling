@@ -1,2 +1,6 @@
 /Datasets
 .DS_Store
+.loan_data_inputs_test.csv
+.loan_data_inputs_train.csv
+.loan_data_targets_test.csv
+.loan_data_targets_train.csv
